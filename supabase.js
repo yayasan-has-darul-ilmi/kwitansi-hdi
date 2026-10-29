@@ -1,6 +1,6 @@
 /* Kwitansi HDI - konektor Supabase v2. Isi URL/key project milik Anda jika berbeda. */
-var SUPABASE_URL = 'https://mdsjozdxdmlwiajfvnfh.supabase.co';
-var SUPABASE_ANON_KEY = 'sb_publishable_lTF8jsP3RuVVYjbxISaedQ_nc11jBy9';
+var SUPABASE_URL = 'https://mnsnfjwtcdmipcijdagm.supabase.co';
+var SUPABASE_ANON_KEY = 'sb_publishable_V3IwENu2-WtJwG3xF7dlog_CQEQDe5M';
 
 /*
  * PEMETAAN USERNAME -> EMAIL SUPABASE
@@ -12,7 +12,7 @@ var SUPABASE_ANON_KEY = 'sb_publishable_lTF8jsP3RuVVYjbxISaedQ_nc11jBy9';
  */
 var HDI_USERNAME_MAP = {
   'kwitansihdi': 'kwitansihdi@gmail.com',
-  'admin': 'ganti-email-admin@contoh.com'
+  'yyshdi179': 'yyshdi179@gmail.com'
 };
 
 var HDIDB = (function () {
